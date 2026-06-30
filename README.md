@@ -3,6 +3,14 @@
 </p>
 <div align="center">
 
+# My main account is @Beetlesarecoolerthanme . . . Make sure to give it a follow . 
+
+</div>
+
+---
+<div align="center"> 
+SOCIALS
+  https://beetlecorp.straw.page/
 <!--
 **Eggchansnumberonefanintheworld/Eggchansnumberonefanintheworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
