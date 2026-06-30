@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.pinimg.com/736x/cb/99/f8/cb99f8f4b08b5f5e03a30427a65cd2d9.jpg](https://www.pinterest.com/pin/583638432999003647/?conversation_id=3637592346487629312&message=3637647910478727168&sender=1149755117277546619)" width="600">
+  <img src="https://www.pinterest.com/pin/583638432999003647/?conversation_id=3637592346487629312&message=3637647910478727168&sender=1149755117277546619" width="600">
 </p>
 <div align="center">
 
