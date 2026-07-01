@@ -1,19 +1,8 @@
-<div align="center">
+<p align="center">
 
-```text
-┌─────────────────────────────────────────────┐
-│ README.EXE                                  │
-├─────────────────────────────────────────────┤
-```
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=120&pause=999999&color=7CFC00&background=00000000&center=true&vCenter=true&width=700&height=80&lines=Taxduo+forever+!+!" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=120&pause=999999&color=7CFC00&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Taxduo+forever+!+!" />
-
-```text
-C:\> █
-```
-
-</div>
-
+</p>
 <p align="center">
   <img src="https://i.pinimg.com/736x/e6/70/66/e67066dd4f7da8094459d36ca904bc77.jpg" width="500">
 </p>
