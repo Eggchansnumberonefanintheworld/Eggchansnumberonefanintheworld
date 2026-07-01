@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=D6E8FF&/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:D6E8FF,100:BFDFFF&text=README.md" />
 
 <div align="center">
 
