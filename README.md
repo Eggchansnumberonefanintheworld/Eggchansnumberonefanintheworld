@@ -7,7 +7,7 @@
 ```
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=80&pause=999999&color=72F26D&background=00000000&center=true&vCenter=true&repeat=false&width=650&lines=%40taxduo%3A>+initializing...;>+ready.;;Taxduo+forever+!!"
+  src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=80&pause=999999&color=72F26D&background=00000000&center=true&vCenter=true&repeat=false&width=650&lines=Taxduo+forever+!!"
 />
 
 ```text
