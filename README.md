@@ -1,17 +1,17 @@
 <div align="center">
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│ ● README.md                                                  │
-╰──────────────────────────────────────────────────────────────╯
+┌──────────────────────────────────────────────────────────────┐
+│ README.md                                                    │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=70&pause=999999&color=6BFF73&background=00000000&center=true&vCenter=true&repeat=false&width=700&lines=%24+booting...;%24+loading+profile...;%24+echo+%22Taxduo+forever+!!%22;Taxduo+forever+!!"
+  src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=80&pause=999999&color=72F26D&background=00000000&center=true&vCenter=true&repeat=false&width=650&lines=user%40taxduo%3A~%24+cat+README.md;>+initializing...;>+ready.;;Taxduo+forever+!!"
 />
 
 ```text
-$
+user@taxduo:~$ █
 ```
 
 </div>
