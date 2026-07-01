@@ -1,6 +1,5 @@
-<body bgcolor="#D6E8FF">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:D6E8FF,100:BFDFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2C4E72,100:BFDFFF" />
 
 <div align="center">
 
