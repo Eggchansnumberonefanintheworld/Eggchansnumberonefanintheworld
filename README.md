@@ -1,16 +1,20 @@
-┌──────────────────────────────────────────────────────────────┐
-│ README.md                                                    │
-├──────────────────────────────────────────────────────────────┤
+<div align="center">
 
-user@taxduo:~$ cat README.md
+```text
+╭──────────────────────────────────────────────────────────────╮
+│ ● README.md                                                  │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-> initializing...
-> loading profile...
-> status: online
+<img
+  src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=70&pause=999999&color=6BFF73&background=00000000&center=true&vCenter=true&repeat=false&width=700&lines=%24+booting...;%24+loading+profile...;%24+echo+%22Taxduo+forever+!!%22;Taxduo+forever+!!"
+/>
 
-Taxduo forever !!
+```text
+$
+```
 
-user@taxduo:~$ █
+</div>
 
 
 <p align="center">
