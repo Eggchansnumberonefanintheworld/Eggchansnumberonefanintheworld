@@ -1,6 +1,6 @@
 <p align="center">
-Ｔａｘｄｕｏ ｆｏｒｅｖｅｒ ！ ！
-</div>
+Taxduo forever ! !<span>▋</span>
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/e6/70/66/e67066dd4f7da8094459d36ca904bc77.jpg" width="500">
